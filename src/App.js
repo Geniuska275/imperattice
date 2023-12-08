@@ -19,9 +19,11 @@ function App() {
 
         <div className='flex gap-3'>
 
-        <span className='text-[#bf2833] font-bold ml-2'>Imperatrice_dep 
+        <a href='https://www.instagram.com/imperatrice_deb/?igshid=OGQ5ZDc2ODk2ZA%3D%3D'>
+          <span className='text-[#bf2833] font-bold ml-2'>Imperatrice_deb 
           
                 </span> 
+          </a>
           
            <a href="https://www.instagram.com/imperatrice_deb/?igshid=OGQ5ZDc2ODk2ZA%3D%3D">
               <RiInstagramFill  style={{color:"#bf2833",fontSize:"25px"}}/>
