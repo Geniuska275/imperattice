@@ -8,10 +8,17 @@ import image7 from "./g.jpeg"
 import image8 from "./h.jpeg"
 import image9 from "./i.jpeg"
 import image10 from "./j.jpeg"
+import image11 from "./k.jpeg"
+import image12 from "./l.jpeg"
+import image13 from "./m.jpeg"
+import image14 from "./n.jpeg"
+import image15 from "./o.jpeg"
+import video1 from "./v1.mp4"
+import ReactPlayer from 'react-player'
 
 
 export default function Gallery(){
-    const images=[image1,image2,image3,image4,image5,image6,image7,image8,image9,image10]
+    const images=[image1,image2,image3,image4,image5,image6,image7,image8,image9,image10,image11,image12,image13,image14,image15]
 
     return(
         <div className="flex justify-center items-center mb-5">
@@ -23,6 +30,8 @@ export default function Gallery(){
             </div>
              ))}
          </div>
+        
+        
         </div>
     )
 }
