@@ -13,8 +13,7 @@ import image12 from "./l.jpeg"
 import image13 from "./m.jpeg"
 import image14 from "./n.jpeg"
 import image15 from "./o.jpeg"
-import video1 from "./v1.mp4"
-import ReactPlayer from 'react-player'
+
 
 
 export default function Gallery(){
@@ -30,8 +29,8 @@ export default function Gallery(){
             </div>
              ))}
          </div>
-        
-        
+         
+         
         </div>
     )
 }
