@@ -19,7 +19,7 @@ function App() {
          <h1 style={{textAlign:"center",margin:"20px",fontSize:"20px",fontWeight:"bold",color:"#bf2833"}}> OUR VIDEOS</h1>
          
 
-         <ReactPlayer url={video1} controls={true}  width={"300px"}/>
+         <ReactPlayer url={video1} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px"}}/>
         
 
 
