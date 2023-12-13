@@ -17,7 +17,10 @@ function App() {
       <hr></hr>
       <div style={{maxWidth:"550px" ,margin:"0px auto",padding:"20px"}}>
          <h1 style={{textAlign:"center",margin:"20px",fontSize:"20px",fontWeight:"bold",color:"#bf2833"}}> OUR VIDEOS</h1>
-         <ReactPlayer url={video1} controls={true} style={{width:"100px"}}/>
+         
+
+         <ReactPlayer url={video1} controls={true}  width={"300px"}/>
+        
 
 
          </div>
