@@ -20,7 +20,7 @@ function App() {
       <div style={{maxWidth:"550px" ,margin:"0px auto",padding:"20px"}}>
          <h1 style={{textAlign:"center",margin:"20px",fontSize:"20px",fontWeight:"bold",color:"#bf2833"}}> OUR VIDEOS</h1>
          <div className='flexbox'>
-         <ReactPlayer url={video1} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px"}}/>
+         <ReactPlayer url={video1} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
          <ReactPlayer url={video2} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px"}}/>
          
          </div>
