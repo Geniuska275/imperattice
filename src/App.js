@@ -5,6 +5,8 @@ import Gallery from './components/gallery';
 import { RiInstagramFill } from "react-icons/ri";
 import video1 from "./components/v1.mp4"
 import video2 from "./components/V2.mp4"
+import video3 from "./components/v3.mp4"
+import video4 from "./components/v4.mp4"
 
 import ReactPlayer from 'react-player'
 
@@ -22,7 +24,14 @@ function App() {
          <div className='flexbox'>
          <ReactPlayer url={video1} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
          <ReactPlayer url={video2} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px"}}/>
-         
+       
+              
+         </div>
+         <div className='flexbox'>
+         <ReactPlayer url={video3} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
+         <ReactPlayer url={video4} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px"}}/>
+       
+              
          </div>
 
         

@@ -17,7 +17,7 @@ import image15 from "./o.jpeg"
 
 
 export default function Gallery(){
-    const images=[image1,image2,image3,image4,image5,image6,image7,image8,image9,image10,image11,image12,image13,image14,image15]
+    const images=[image4,image6,image8,image9,image10,image11,image12,image13,image14,image15]
 
     return(
         <div className="flex justify-center items-center mb-5 md:ml-[150px]">
