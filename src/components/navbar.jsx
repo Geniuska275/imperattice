@@ -6,7 +6,7 @@ export default function Navbar(){
 
     return(
 
-        <div className=" p-4 shadow sticky bg-white top-0 flex justify-between items-center">
+        <div className=" p-4 z-10 shadow sticky bg-white top-0 flex justify-between items-center">
             <h1 className="font-bold text-[#bf2833] ml-2">Imperatrice Wrist Hub.</h1>
             <div className="flex gap-4 mr-6">
                 <a href="https://wa.me/+2348101657733">
