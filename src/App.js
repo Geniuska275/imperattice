@@ -15,15 +15,28 @@ function App() {
   return (
     <div className="">
       <Navbar/>
-      <h1 className='items-center font-bold text-[#bf2833] m-[25px]' style={{textAlign:"center"}}>OUR COLLECTIONS</h1>
+      <h1 className='items-center font-bold text-[#bf2833] m-[25px]' style={{textAlign:"center"}}>COLLECTIONS</h1>
   
       <Gallery/>
       <hr></hr>
       <div style={{maxWidth:"550px" ,margin:"0px auto",padding:"20px"}}>
-         <h1 style={{textAlign:"center",margin:"20px",fontSize:"20px",fontWeight:"bold",color:"#bf2833"}}> OUR VIDEOS</h1>
+         <h1 style={{textAlign:"center",margin:"20px",fontSize:"20px",fontWeight:"bold",color:"#bf2833"}}> VIDEOS</h1>
          <div className='flexbox'>
+          <div className='relative'>
+          <a href="https://wa.me/+2348101657733" className="absolute bottom-[10px]">
+
+<button className="  bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
+</a>
+
          <ReactPlayer url={video1} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
+          </div>
+          <div className='relative'>
+          <a href="https://wa.me/+2348101657733" className="absolute bottom-[10px] z-4">
+
+<button className="  bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
+</a>
          <ReactPlayer url={video2} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px"}}/>
+          </div>
        
               
          </div>

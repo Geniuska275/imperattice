@@ -21,11 +21,15 @@ export default function Gallery(){
 
     return(
         <div className="flex justify-center items-center mb-5 md:ml-[150px]">
-            <div className="flex flex-wrap items-center ml-[20px]">
+            <div className="flex flex-wrap  items-center ml-[20px]">
              {images.map(image=>(
 
-            <div className="shadow-lg  rounded-sm w-[340px] flex items-center justify-center m-1 h-[440px]">
+            <div className="shadow-lg relative rounded-sm w-[340px] flex items-center justify-center m-1 h-[440px] ">
             <img src={image}   style={{width:"300px",height:"400px",borderRadius:"7px"}}/>
+            <a href="https://wa.me/+2348101657733" className="absolute bottom-[10px]">
+
+            <button className="  bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
+            </a>
             </div>
              ))}
           
