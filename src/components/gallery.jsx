@@ -47,6 +47,13 @@ import image44 from "./a18.jpeg"
 import image45 from "./a19.jpeg"
 import image46 from "./a20.jpeg"
 import image47 from "./a21.jpeg"
+
+import image51 from "./a25.jpeg"
+import image52 from "./a26.jpeg"
+import image53 from "./a27.jpeg"
+import image54 from "./a28.jpeg"
+import image55 from "./a29.jpeg"
+import image56 from "./a30.jpeg"
 // import image48 from "./a22.jpeg"
 import image49 from "./a23.jpeg"
 import image50 from "./a24.jpeg"
@@ -59,6 +66,13 @@ import image50 from "./a24.jpeg"
 
 export default function Gallery(){
    const images=[
+    image51,
+    image52,
+    image53,
+    image54,
+    image55,
+    image56,
+
         image41,image42,image43,image44,image45,image46,image47,image49,image50,
         image4,image6,image8,image9,image10,image11,image12,image13,
         image14,image15,image16,image17,image19,image20,image21,
