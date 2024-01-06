@@ -13,6 +13,10 @@ import video7 from "./components/C.mp4"
 import video8 from "./components/D.mp4"
 import video9 from "./components/E.mp4"
 import video10 from "./components/F.mp4"
+import video11 from "./components/v5.mp4"
+import video12 from "./components/v6.mp4"
+
+
 
 import ReactPlayer from 'react-player'
 
@@ -98,6 +102,25 @@ function App() {
 
          <div className='flexbox'>
          <div className='h-[500px]' style={{textAlign:"center"}}>
+         <ReactPlayer url={video11} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
+
+
+ <a href="https://wa.me/+2348101657733" className="">
+
+<button className=" bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
+</a>
+ </div>
+ <div className='h-[500px]' style={{textAlign:"center"}}>
+ <ReactPlayer url={video12} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px"}}/>
+         
+ <a href="https://wa.me/+2348101657733" className="">
+
+<button className=" bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
+</a>
+ </div>  
+         </div>
+         <div className='flexbox'>
+         <div className='h-[500px]' style={{textAlign:"center"}}>
          <ReactPlayer url={video3} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
 
 
@@ -115,6 +138,9 @@ function App() {
 </a>
  </div>  
          </div>
+
+
+
 
         
 
