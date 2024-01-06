@@ -107,7 +107,7 @@ export default function Gallery(){
                  <div className="shadow-lg relative rounded-sm w-[340px] flex items-center justify-center m-1 h-[440px] ">
                 <h1 className=" absolute flex items-center justify-center top-[10px] right-3 rounded-full w-10 h-10 bg-[#bf2833] text-white">A{index}</h1>
             <img src={image}   style={{width:"300px",height:"400px",borderRadius:"7px"}}/>
-            <a href={`https://api.whatsapp.com/send?phone=+2348101657733 &text= Hello%20Imperative%20Wrist%20Hub,how much is A${index}`}className="absolute bottom-[10px]">
+            <a href={`https://api.whatsapp.com/send?phone=+2348101657733 &text= Hello Imperative Wrist%20Hub,how much is A${index}?`}className="absolute bottom-[10px]">
 
             <button className="  bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
             </a>
