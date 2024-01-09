@@ -78,108 +78,108 @@ export default function Gallery(){
    const images=[
     {
         image:image51,
-        pricelow:"28999",
-        pricehigh:"31999",
+        pricelow:"28,999",
+        pricehigh:"31,999",
         id:"A0"
     },
     {
         image:image52,
-        pricelow:"28999",
-        pricehigh:"31999",
+        pricelow:"28,999",
+        pricehigh:"31,999",
         id:"A01"
     },
     {
         image:image53,
-        pricelow:"28999",
-        pricehigh:"31999",
+        pricelow:"28,999",
+        pricehigh:"31,999",
         id:"A02"
     },
     {
         image:image54,
-        pricelow:"28999",
-        pricehigh:"31999",
+        pricelow:"28,999",
+        pricehigh:"31,999",
         id:"A03"
     },
     {
         image:image55,
-        pricelow:"28999",
-        pricehigh:"31999",
+        pricelow:"28,999",
+        pricehigh:"31,999",
         id:"A04"
     },
     {
         image:image56,
-        pricelow:"28999",
-        pricehigh:"31999",
+        pricelow:"28,999",
+        pricehigh:"31,999",
         id:"A05"
     },
     {
         image:image57,
 
-        pricelow:"14999",
-        pricehigh:"16999",
+        pricelow:"14,999",
+        pricehigh:"16,999",
         id:"A06"
     },
     {
         image:image58,
-        pricelow:"14999",
-        pricehigh:"16999",
+        pricelow:"14,999",
+        pricehigh:"16,999",
         id:"A07"
     },
     {
         image:image59,
-        pricelow:"14999",
-        pricehigh:"16999",
+        pricelow:"14,999",
+        pricehigh:"16,999",
         id:"A08"
     },
     {
         image:image60,
-        pricelow:"14999",
-        pricehigh:"16999",
+        pricelow:"14,999",
+        pricehigh:"16,999",
         id:"A09"
     },
     {
         image:image61,
-        pricelow:"33999",
+        pricelow:"33,999",
         id:"A10"
     },
     {
         image:image62,
-        pricelow:"33999",
+        pricelow:"33,999",
         id:"A11"
     }, {
         image:image63,
-        pricelow:"33999",
+        pricelow:"33,999",
         id:"A12"
     },
     {
         image:image64,
-        pricelow:"33999",
+        pricelow:"33,999",
         id:"A13"
     },
     
     {
         image:image41,
-        pricelow:"25999",
+        pricelow:"25,999",
         id:"A14"
     }, 
     {
         image:image42,
     
-        pricelow:"25999",
+        pricelow:"25,999",
         id:"A15"
     },
      {
         image:image43,
         
-        pricelow:"25999",
+        pricelow:"25,999",
         id:"A16"
     }, {
         image:image44,
-        pricelow:"25999",
+        pricelow:"25,999",
         id:"A17"
     }, {
         image:image45,
-        pricelow:"25999",
+        pricelow:"25,999",
         id:"A18"
     },
      {
