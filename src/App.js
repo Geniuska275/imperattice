@@ -147,7 +147,7 @@ function App() {
 
          </div>
          
-       <h2 style={{textAlign:"center",fontWeight:"bold",padding:"40px"}}>NOTE - <span className='text-[#bf2833]'> All Our Prices are Negotiable,simply click the button lets NEGOTATE.</span></h2>
+       <h2 style={{textAlign:"center",fontWeight:"bold",padding:"40px"}}>NOTE - <span className='text-[#bf2833]'> All Our Prices are Negotiable,simply click the button lets NEGOTIATE.</span></h2>
 
       <hr></hr>
       <h2 style={{textAlign:"center",margin:"10px"}}>
