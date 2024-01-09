@@ -76,41 +76,343 @@ import image64 from "./a38.jpeg"
 
 export default function Gallery(){
    const images=[
-    image51,
-    image52,
-    image53,
-    image54,
-    image55,
-    image56,
-    image57,
-    image58,
-    image59,
-    image60,
-    image61,
-    image62,
-    image63,
-    image64,    
-    
+    {
+        image:image51,
+        pricelow:"28999",
+        pricehigh:"31999",
+        id:"A0"
+    },
+    {
+        image:image52,
+        pricelow:"28999",
+        pricehigh:"31999",
+        id:"A01"
+    },
+    {
+        image:image53,
+        pricelow:"28999",
+        pricehigh:"31999",
+        id:"A02"
+    },
+    {
+        image:image54,
+        pricelow:"28999",
+        pricehigh:"31999",
+        id:"A03"
+    },
+    {
+        image:image55,
+        pricelow:"28999",
+        pricehigh:"31999",
+        id:"A04"
+    },
+    {
+        image:image56,
+        pricelow:"28999",
+        pricehigh:"31999",
+        id:"A05"
+    },
+    {
+        image:image57,
 
-        image41,image42,image43,image44,image45,image46,image47,image50,
-        image4,image6,image8,image9,image10,image11,image12,image13,
-        image14,image15,image16,image17,image19,image20,image21,
-        image22,image23,image24,image25,image26,image27,image28,image29,
-        image30,image31,image32,image33,image34,image35,image36,image37,image38,image39,image40
+        pricelow:"14999",
+        pricehigh:"16999",
+        id:"A06"
+    },
+    {
+        image:image58,
+        pricelow:"14999",
+        pricehigh:"16999",
+        id:"A07"
+    },
+    {
+        image:image59,
+        pricelow:"14999",
+        pricehigh:"16999",
+        id:"A08"
+    },
+    {
+        image:image60,
+        pricelow:"14999",
+        pricehigh:"16999",
+        id:"A09"
+    },
+    {
+        image:image61,
+        pricelow:"33999",
+        id:"A10"
+    },
+    {
+        image:image62,
+        pricelow:"33999",
+        id:"A11"
+    }, {
+        image:image63,
+        pricelow:"33999",
+        id:"A12"
+    },
+    {
+        image:image64,
+        pricelow:"33999",
+        id:"A13"
+    },
+    
+    {
+        image:image41,
+        pricelow:"25999",
+        id:"A14"
+    }, 
+    {
+        image:image42,
+    
+        pricelow:"25999",
+        id:"A15"
+    },
+     {
+        image:image43,
+        
+        pricelow:"25999",
+        id:"A16"
+    }, {
+        image:image44,
+        pricelow:"25999",
+        id:"A17"
+    }, {
+        image:image45,
+        pricelow:"25999",
+        id:"A18"
+    },
+     {
+        image:image46,
+        pricelow:"25,999",
+        id:"A19"
+    },
+    {
+        image:image47,
+        pricelow:"25,999",
+        id:"A20"
+    }, 
+    {
+        image:image50,
+        pricelow:"25,999",
+        id:"A21"
+    },
+    {
+        image:image4,
+        pricelow:"27,999",
+        id:"A22"
+    }, 
+    {
+        image:image6,
+        pricelow:"27,999",
+        id:"A23"
+    }, {
+        image:image8,
+        pricelow:"25,999",
+        id:"A24"
+    }, {
+        image:image9,
+        pricelow:"27,999",
+        id:"A25"
+    }, {
+        image:image10,
+        pricelow:"27,999",
+        id:"A26"
+    },
+    {
+        image:image11,
+
+        pricelow:"19,999",
+        id:"A27"
+    }, {
+        image:image12,
+    
+        pricelow:"25,999",
+        id:"A28"
+    }, {
+        image:image13,
+        pricelow:"19,999",
+        id:"A29"
+    },
+    {
+        image:image14,
+        pricelow:"27,999",
+        pricehigh:"30999",
+        id:"A30"
+    }, {
+        image:image15,
+
+        pricelow:"27,999",
+        pricehigh:"30999",
+        id:"A31"
+    }, {
+        image:image16,
+        pricelow:"21,999",
+        pricehigh:"23,999",
+        id:"A32"
+
+    
+    }, {
+        image:image17,
+        pricelow:"23,999",
+        pricehigh:"25,999",
+        id:"A33"
+    }, {
+        image:image19,
+        pricelow:"21,999",
+        pricehigh:"23,999",
+        id:"A34"
+    }, {
+        image:image20,
+        pricelow:"21,999",
+        pricehigh:"23999",
+        id:"A35"
+    },
+    {
+        image:image21,
+        pricelow:"21,999",
+        pricehigh:"23999",
+        id:"A36"
+    }, {
+        image:image22,
+        pricelow:"21,999",
+        pricehigh:"23999",
+        id:"A37"
+    },
+    {
+        image:image23,
+        pricelow:"21,999",
+        pricehigh:"23999",
+        id:"A38"
+    },
+    {
+        image:image24,
+        pricelow:"21,999",
+        pricehigh:"23999",
+        id:"A39"
+        
+    },
+    {
+        image:image25,
+        pricelow:"23,999",
+        pricehigh:"25,999",
+        id:"A40"
+    },
+    {
+        image:image26,
+        pricelow:"23,999",
+        pricehigh:"25,999",
+        id:"A41"
+    },
+    {
+        image:image27,
+        
+        pricelow:"23,999",
+        pricehigh:"25,999",
+        id:"A42"
+    },
+    {
+        image:image28,
+        pricelow:"23,999",
+        pricehigh:"25,999",
+        id:"A43"
+    },
+    {
+        image:image29,
+        pricelow:"23,999",
+        pricehigh:"25,999",
+        id:"A44"
+    },
+    {
+        image:image30,
+        pricelow:"37,999",
+        id:"A45"
+
+    },
+    {
+        image:image31,
+        pricelow:"37,999",
+        id:"A46"
+    },
+    {
+        image:image32,
+        pricelow:"12,999",
+        pricehigh:"14,999",
+        id:"A47"
+    },
+    {
+        image:image33,
+        pricelow:"12,999",
+        pricehigh:"14,999",
+        id:"A48"
+    },
+    {
+        image:image34,
+        pricelow:"12,999",
+        pricehigh:"14,999",
+        id:"A49"
+    }, {
+        image:image35,
+        pricelow:"12,999",
+        pricehigh:"14,999",
+        id:"A50"
+    }, {
+        image:image36,
+        pricelow:"12,999",
+        pricehigh:"14,999",
+        id:"A51"
+    }, {
+        image:image37,
+        pricelow:"12,999",
+        pricehigh:"14,999",
+        id:"A52"
+    },
+    {
+        image:image38,
+        pricelow:"12,999",
+        pricehigh:"14,999",
+        id:"A53"
+    }, {
+        image:image39,
+        pricelow:"12,999",
+        pricehigh:"14,999",
+        id:"A54"
+    },
+    {
+        image:image40,
+        pricelow:"12,999",
+        pricehigh:"14,999",
+        id:"A55"
+    },
     ]
 
     return(
         <div className="flex justify-center items-center mb-5 md:ml-[150px]">
             <div className="flex flex-wrap  items-center ml-[20px]">
-             {images.map((image,index)=>(
+             {images.map((item,index)=>(
                  
                  <div className="shadow-lg relative rounded-sm w-[340px] flex items-center justify-center m-1 h-[440px] ">
-                <h1 className=" absolute flex items-center justify-center top-[10px] right-3 rounded-full w-10 h-10 bg-[#bf2833] text-white">A{index}</h1>
-            <img src={image}   style={{width:"300px",height:"400px",borderRadius:"7px"}}/>
-            <a href={`https://api.whatsapp.com/send?phone=+2348101657733 &text= Hello Imperative Wrist%20Hub,how much is A${index} wristwatch?`}className="absolute bottom-[10px]">
+                <h1 className=" absolute flex items-center justify-center top-[10px] right-3 rounded-full w-10 h-10 bg-[#bf2833] text-white">{item.id}</h1>
+            <img src={item.image}   style={{width:"300px",height:"400px",borderRadius:"7px"}}/>
+            <a href={`https://api.whatsapp.com/send?phone=+2348101657733 &text= Hello Imperative WristHub,lets negotiate on (${item.id},${item.pricelow}-${item.pricehigh})`}className="absolute bottom-[10px]">
 
             <button className="  bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
             </a>
+            <h1 className=" absolute flex items-center justify-center top-[30px] left-7 rounded-2xl font-bold shadow-xl w-30 h-30 bg-[#fff] py-2 px-3 text-[#bf2833]">
+                <span>
+
+                    &#8358;{item.pricelow}
+                    </span>
+                
+                   {item.pricehigh
+
+&& <span>
+                       - 
+
+                     &#8358;{item.pricehigh}
+                    </span>}
+                     </h1>
+
             </div>
              ))}
           
