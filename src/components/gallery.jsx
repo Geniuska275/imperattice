@@ -66,6 +66,14 @@ import image61 from "./a35.jpeg"
 import image62 from "./a36.jpeg"
 import image63 from "./a37.jpeg"
 import image64 from "./a38.jpeg"
+import image65 from "./b1.jpeg"
+import image66 from "./b2.jpeg"
+import image67 from "./b3.jpeg"
+import image68 from "./b4.jpeg"
+import image69 from "./b5.jpeg"
+import image70 from "./b6.jpeg"
+import image71 from "./b7.jpeg"
+
 
 
 
@@ -383,6 +391,41 @@ export default function Gallery(){
         pricelow:"12,999",
         pricehigh:"14,999",
         id:"A55"
+    },
+    {
+        image:image65,
+        pricelow:"26,999",
+        id:"A56"
+    },
+    {
+        image:image66,
+        pricelow:"26,999",   
+        id:"A57"
+    },
+    {
+        image:image67,
+        pricelow:"26,999",
+        id:"A58"
+    },
+    {
+        image:image68,
+        pricelow:"27,999",
+        id:"A59"
+    },
+    {
+        image:image69,
+        pricelow:"27,999",
+        id:"A60"
+    },
+    {
+        image:image70,
+        pricelow:"27,999",
+        id:"A61"
+    },
+    {
+        image:image71,
+        pricelow:"27,999",
+        id:"A62"
     },
     ]
 
