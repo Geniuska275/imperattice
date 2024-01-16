@@ -20,6 +20,8 @@ import video14 from "./components/v8.mp4"
 import video15 from "./components/v9.mp4"
 import video16 from "./components/v10.mp4"
 import video17 from "./components/v11.mp4"
+import video18 from "./components/v12.mp4"
+
 
 
 
@@ -208,7 +210,7 @@ function App() {
 
          <div className='flexbox'>
          <div className='h-[500px]' style={{textAlign:"center"}}>
-         <ReactPlayer url={video16} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
+         <ReactPlayer url={video18} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
 
 
  <a href="https://wa.me/+2348101657733" className="">
