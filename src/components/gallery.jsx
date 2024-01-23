@@ -85,6 +85,8 @@ import image78 from "./b14.jpeg"
 import image79 from "./b16.jpeg"
 import image80 from "./b17.jpeg"
 import image81 from "./b18.jpeg"
+import image82 from "./b19.jpeg"
+
 
 
 
@@ -512,8 +514,12 @@ export default function Gallery(){
     {
         image:image81,
         pricelow:"43,999",
-
         id:"A72"
+    },
+    {
+        image:image82,
+        pricelow:"33,999",
+        id:"A73"
     },
    
     ]
