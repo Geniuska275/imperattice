@@ -86,6 +86,18 @@ import image79 from "./b16.jpeg"
 import image80 from "./b17.jpeg"
 import image81 from "./b18.jpeg"
 import image82 from "./b19.jpeg"
+import image83 from "./c1.jpeg"
+import image84 from "./c2.jpeg"
+import image85 from "./c3.jpeg"
+
+import image86 from "./c4.jpeg"
+import image87 from "./c5.jpeg"
+import image88 from "./c6.jpeg"
+
+import image89 from "./c7.jpeg"
+import image90 from "./c8.jpeg"
+import image91 from "./c9.jpeg"
+import image92 from "./c10.jpeg"
 
 
 
@@ -480,15 +492,6 @@ export default function Gallery(){
         id:"A67"
     },
 
-
-
-
-
-
-
-
-
-
     {
         image:image77,
         pricelow:"43,999",
@@ -521,7 +524,72 @@ export default function Gallery(){
         pricelow:"33,999",
         id:"A73"
     },
-   
+
+
+    {
+        image:image83,
+        pricelow:"35,999",
+        id:"A74"
+    },
+    {
+        image:image84,
+        pricelow:"35,999",
+        id:"A75"
+    },
+    {
+        image:image85,
+        pricelow:"35,999",
+        id:"A76"
+    },
+
+    {
+        image:image86,
+        pricelow:"17,999",
+        pricehigh:"19,999",
+
+        id:"A77"
+    },
+    {
+        image:image87,
+        pricelow:"17,999",
+        pricehigh:"19,999",
+
+        id:"A78"
+    },
+    {
+        image:image88,
+        pricelow:"17,999",
+    
+
+        id:"A79"
+    },
+
+    {
+        image:image89,
+        pricelow:"35,999",
+    
+
+        id:"A80"
+    },
+    {
+        image:image90,
+        pricelow:"35,999",
+    
+
+        id:"A80"
+    },
+    {
+        image:image91,
+        pricelow:"35,999",
+    
+
+        id:"A81"
+    },
+    {
+        image:image92,
+        pricelow:"35,999",
+        id:"A82"
+    },
     ]
 
     return(

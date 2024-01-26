@@ -23,6 +23,11 @@ import video17 from "./components/v11.mp4"
 import video18 from "./components/v12.mp4"
 import video19 from "./components/v20.mp4"
 
+import video20 from "./components/v21.mp4"
+import video21 from "./components/v22.mp4"
+import video22 from "./components/v23.mp4"
+import video23 from "./components/v24.mp4"
+
 
 
 
@@ -231,6 +236,9 @@ function App() {
          </div>
 
 
+
+
+
          <div className='flexbox'>
          <div className='h-[500px]' style={{textAlign:"center"}}>
          <ReactPlayer url={video18} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
@@ -253,10 +261,83 @@ function App() {
 
 
 
+
+
+
+
+
+
+
+
+         <div className='flexbox'>
+         <div className='h-[500px]' style={{textAlign:"center"}}>
+         <ReactPlayer url={video21} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
+
+
+ <a href="https://wa.me/+2348101657733" className="">
+
+<button className=" bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
+</a>
+ </div>
+ <div className='h-[500px]' style={{textAlign:"center"}}>
+ <ReactPlayer url={video20} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px"}}/>
+         
+ <a href="https://wa.me/+2348101657733" className="">
+
+<button className=" bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
+</a>
+ </div>  
+         </div>
+
+
+
+
+
+
+
+
+         <div className='flexbox'>
+         <div className='h-[500px]' style={{textAlign:"center"}}>
+         <ReactPlayer url={video23} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
+
+
+ <a href="https://wa.me/+2348101657733" className="">
+
+<button className=" bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
+</a>
+ </div>
+ <div className='h-[500px]' style={{textAlign:"center"}}>
+ <ReactPlayer url={video22} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px"}}/>
+         
+ <a href="https://wa.me/+2348101657733" className="">
+
+<button className=" bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
+</a>
+ </div>  
+         </div>
+
+
         
 
 
          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
          
        <h2 style={{textAlign:"center",fontWeight:"bold",padding:"40px"}}>NOTE - <span className='text-[#bf2833]'> All Our Prices are Negotiable,simply click the button lets NEGOTIATE.</span></h2>
 
