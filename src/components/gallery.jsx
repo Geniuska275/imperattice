@@ -100,6 +100,16 @@ import image91 from "./c9.jpeg"
 import image92 from "./c10.jpeg"
 
 
+import image93 from "./c11.jpeg"
+import image94 from "./c12.jpeg"
+import image95 from "./c13.jpeg"
+import image96 from "./c14.jpeg"
+import image97 from "./c15.jpeg"
+import image98 from "./c16.jpeg"
+import image99 from "./c17.jpeg"
+import image100 from "./c18.jpeg"
+
+
 
 
 
@@ -581,7 +591,6 @@ export default function Gallery(){
     {
         image:image91,
         pricelow:"35,999",
-    
 
         id:"A81"
     },
@@ -590,6 +599,53 @@ export default function Gallery(){
         pricelow:"35,999",
         id:"A82"
     },
+
+    {
+        image:image93,
+        pricelow:"38,999",
+        id:"A83"
+    },
+    {
+        image:image94,
+        pricelow:"38,999",
+        id:"A84"
+    },
+    {
+        image:image95,
+        pricelow:"38,999",
+        id:"A85"
+    },
+    {
+        image:image96,
+        pricelow:"38,999",
+        id:"A86"
+    },
+    {
+        image:image97,
+        pricelow:"38,999",
+        id:"A87"
+    },
+    {
+        image:image98,
+        pricelow:"38,999",
+        id:"A88"
+    },
+    {
+        image:image99,
+        pricelow:"38,999",
+        id:"A89"
+    },
+    {
+        image:image100,
+        pricelow:"38,999",
+        id:"A90"
+    },
+
+
+
+
+
+    
     ]
 
     return(
