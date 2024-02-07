@@ -115,6 +115,13 @@ import image103 from "./c21.jpeg"
 import image104 from "./c22.jpeg"
 import image105 from "./c23.jpeg"
 
+import image106 from "./c24.jpeg"
+import image107 from "./c25.jpeg"
+import image108 from "./c26.jpeg"
+import image109 from "./c27.jpeg"
+import image110 from "./c28.jpeg"
+import image111 from "./c29.jpeg"
+
 
 
 
@@ -673,7 +680,47 @@ export default function Gallery(){
         pricelow:"21,999",
         id:"A95"
     },
-   
+
+    {
+        image:image106,
+        pricelow:"39,999",
+        id:"A96"
+    },
+    {
+        image:image107,
+        pricelow:"39,999",
+        id:"A97"
+    },
+    {
+        image:image106,
+        pricelow:"39,999",
+        id:"A98"
+    },
+    {
+        image:image107,
+        pricelow:"39,999",
+        id:"A99"
+    },
+    {
+        image:image108,
+        pricelow:"39,999",
+        id:"A100"
+    },
+    {
+        image:image109,
+        pricelow:"39,999",
+        id:"A101"
+    },
+    {
+        image:image110,
+        pricelow:"39,999",
+        id:"A102"
+    },
+    {
+        image:image111,
+        pricelow:"39,999",
+        id:"A103"
+    },
 
 
 
