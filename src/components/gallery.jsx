@@ -109,6 +109,12 @@ import image98 from "./c16.jpeg"
 import image99 from "./c17.jpeg"
 import image100 from "./c18.jpeg"
 
+import image101 from "./c19.jpeg"
+import image102 from "./c20.jpeg"
+import image103 from "./c21.jpeg"
+import image104 from "./c22.jpeg"
+import image105 from "./c23.jpeg"
+
 
 
 
@@ -641,6 +647,33 @@ export default function Gallery(){
         id:"A90"
     },
 
+
+    {
+        image:image101,
+        pricelow:"21,999",
+        id:"A91"
+    },
+    {
+        image:image102,
+        pricelow:"21,999",
+        id:"A92"
+    },
+    {
+        image:image103,
+        pricelow:"21,999",
+        id:"A93"
+    },
+    {
+        image:image104,
+        pricelow:"21,999",
+        id:"A94"
+    },
+    {
+        image:image105,
+        pricelow:"21,999",
+        id:"A95"
+    },
+   
 
 
 
