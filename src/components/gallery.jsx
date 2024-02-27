@@ -134,6 +134,9 @@ import image120 from "./t9.jpg"
 import image121 from "./t10.jpg"
 import image122 from "./t11.jpg"
 import image123 from "./t12.jpg"
+import image124 from "./w1.jpeg"
+
+
 
 
 
@@ -795,7 +798,11 @@ export default function Gallery(){
         pricelow:"39,999",
         id:"A115"
     },
-   
+    {
+        image:image124,
+        pricelow:"39,999",
+        id:"A116"
+    },
 
 
 
