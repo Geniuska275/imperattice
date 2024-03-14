@@ -143,12 +143,20 @@ import image128 from "./t17.jpeg"
 
 import image129 from "./t18.jpeg"
 import image130 from "./t19.jpeg"
+
 import image131 from "./t20.jpeg"
+
 import image132 from "./t21.jpeg"
 import image133 from "./t22.jpeg"
 import image134 from "./t23.jpeg"
 import image135 from "./t24.jpeg"
 
+import image136 from "./t25.jpeg"
+
+import image137 from "./t26.jpeg"
+import image138 from "./t27.jpeg"
+import image139 from "./t28.jpeg"
+import image140 from "./t29.jpeg"
 
 
 
@@ -879,6 +887,34 @@ export default function Gallery(){
         id:"A126"
     },
 
+    {
+        image:image136,
+        pricelow:"39,999",
+        id:"A127"
+    },
+    {
+        image:image137,
+        pricelow:"39,999",
+        id:"A128"
+    },
+
+    {
+        image:image138,
+        pricelow:"39,999",
+        id:"A129"
+    },
+    {
+        image:image139,
+        pricelow:"39,999",
+        id:"A130"
+    },
+
+    {
+        image:image140,
+        pricelow:"39,999",
+        id:"A131"
+    },
+   
 
 
     
