@@ -158,6 +158,25 @@ import image138 from "./t27.jpeg"
 import image139 from "./t28.jpeg"
 import image140 from "./t29.jpeg"
 
+import image141 from "./t30.jpeg"
+
+import image142 from "./t31.jpeg"
+import image143 from "./t32.jpeg"
+import image144 from "./t33.jpeg"
+import image145 from "./t34.jpeg"
+
+
+import image146 from "./t35.jpeg"
+
+import image147 from "./t36.jpeg"
+import image148 from "./t37.jpeg"
+import image149 from "./t38.jpeg"
+import image150 from "./t39.jpeg"
+import image151 from "./t40.jpeg"
+import image152 from "./t41.jpeg"
+
+
+
 
 
 
@@ -916,6 +935,81 @@ export default function Gallery(){
     },
    
 
+
+
+
+
+    {
+        image:image141,
+        pricelow:"39,999",
+        id:"A132"
+    },
+
+    {
+        image:image142,
+        pricelow:"39,999",
+        id:"A133"
+    },
+    {
+        image:image143,
+        pricelow:"39,999",
+        id:"A134"
+    },
+
+    {
+        image:image144,
+        pricelow:"39,999",
+        id:"A135"
+    },
+
+    {
+        image:image145,
+        pricelow:"39,999",
+        id:"A136"
+    },
+
+    {
+        image:image146,
+        pricelow:"39,999",
+        id:"A137"
+    },
+    {
+        image:image147,
+        pricelow:"39,999",
+        id:"A138"
+    },
+
+    {
+        image:image148,
+        pricelow:"39,999",
+        id:"A139"
+    },
+
+    
+
+
+    {
+        image:image149,
+        pricelow:"39,999",
+        id:"A140"
+    },
+
+    {
+        image:image150,
+        pricelow:"39,999",
+        id:"A141"
+    },
+    {
+        image:image151,
+        pricelow:"39,999",
+        id:"A142"
+    },
+
+    {
+        image:image152,
+        pricelow:"39,999",
+        id:"A143"
+    },
 
     
     ]
