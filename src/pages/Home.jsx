@@ -39,7 +39,7 @@ import { Link } from 'react-router-dom';
 export default function Home() {
   return (
     <div>
-          <div className='w-[60px]  h-[60px] fixed bottom-8 right-5 rounded-full bg-[#bf2833] flex justify-center items-center shadow-lg'>
+          <div className='w-[60px] z-[99999] h-[60px] fixed bottom-8 right-5 rounded-full bg-[#bf2833] flex justify-center items-center shadow-lg'>
          <Link to="/Search">
                 <FaSearch className='text-white text-2xl'  />
                 </Link>
