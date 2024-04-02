@@ -1,3 +1,5 @@
+import { useContext } from "react"
+
 import image1 from "./a.jpeg"
 import image2 from "./b.jpeg"
 import image3 from "./c.jpeg"
@@ -174,6 +176,7 @@ import image149 from "./t38.jpeg"
 import image150 from "./t39.jpeg"
 import image151 from "./t40.jpeg"
 import image152 from "./t41.jpeg"
+import { WatchContext } from "../Context/WatchContext"
 
 
 
@@ -189,6 +192,7 @@ import image152 from "./t41.jpeg"
 
 
 export default function Gallery(){
+    const {data}=useContext(WatchContext)
    const images=[
     {
         image:image51,
@@ -1017,7 +1021,7 @@ export default function Gallery(){
     return(
         <div className="flex justify-center items-center mb-5 md:ml-[150px]">
             <div className="flex flex-wrap  items-center ml-[20px]">
-             {images.map((item,index)=>(
+             {data.map((item,index)=>(
                  
                  <div className="shadow-lg relative rounded-sm w-[340px] flex items-center justify-center m-1 h-[440px] ">
                 <h1 className=" absolute flex items-center justify-center top-[10px] right-3 rounded-full w-10 h-10 bg-[#bf2833] text-white">{item.id}</h1>

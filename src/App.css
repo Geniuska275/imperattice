@@ -50,3 +50,27 @@
   justify-content: space-between;
   align-items: center;
 }
+
+.ModalBackground{
+
+  width: 100vw;
+  height: 100vw;
+  background-color: rgb(200,200,200);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+
+}
+.ModalContainer{
+  width: 400px;
+  height: 400px;
+  box-shadow: rgba(0,0,0,0.8);
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 400px;
+  
+}
