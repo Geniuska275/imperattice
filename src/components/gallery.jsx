@@ -176,6 +176,20 @@ import image149 from "./t38.jpeg"
 import image150 from "./t39.jpeg"
 import image151 from "./t40.jpeg"
 import image152 from "./t41.jpeg"
+
+
+
+import image153 from "./t42.jpeg"
+import image154 from "./t43.jpeg"
+import image155 from "./t45.jpeg"
+import image156 from "./t46.jpeg"
+import image157 from "./t47.jpeg"
+
+import image158 from "./t48.jpeg"
+import image159 from "./t49.jpeg"
+import image160 from "./t50.jpeg"
+import image161 from "./t51.jpeg"
+import image162 from "./t52.jpeg"
 import { WatchContext } from "../Context/WatchContext"
 
 
@@ -1015,6 +1029,62 @@ export default function Gallery(){
         id:"A143"
     },
 
+
+
+
+    {
+        image:image153,
+        pricelow:"39,999",
+        id:"A144"
+    },
+    {
+        image:image154,
+        pricelow:"39,999",
+        id:"A145"
+    },
+    {
+        image:image155,
+        pricelow:"39,999",
+        id:"A146"
+    },
+    {
+        image:image156,
+        pricelow:"39,999",
+        id:"A147"
+    },
+    {
+        image:image157,
+        pricelow:"39,999",
+        id:"A148"
+    },
+    {
+        image:image158,
+        pricelow:"39,999",
+        id:"A149"
+    },
+    {
+        image:image159,
+        pricelow:"39,999",
+        id:"A150"
+    },
+    {
+        image:image160,
+        pricelow:"39,999",
+        id:"A151"
+    },
+
+    {
+        image:image161,
+        pricelow:"39,999",
+        id:"A152"
+    },
+    {
+        image:image162,
+        pricelow:"39,999",
+        id:"A153"
+    },
+
+
     
     ]
 
@@ -1026,7 +1096,7 @@ export default function Gallery(){
                  <div className="shadow-lg relative rounded-sm w-[340px] flex items-center justify-center m-1 h-[440px] ">
                 <h1 className=" absolute flex items-center justify-center top-[10px] right-3 rounded-full w-10 h-10 bg-[#bf2833] text-white">{item.id}</h1>
             <img src={item.image}   style={{width:"300px",height:"400px",borderRadius:"7px"}}/>
-            <a href={`https://api.whatsapp.com/send?phone=+2348101657733 &text= Hello Imperative WristHub,lets negotiate on (${item.id})`} className="absolute bottom-[10px]">
+            <a href={`https://api.whatsapp.com/send?phone=+2348101657733 &text=Hello Imperative WristHub,lets negotiate on (${item.id})`} className="absolute bottom-[10px]">
 
             <button className="  bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
             </a>
