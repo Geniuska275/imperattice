@@ -189,6 +189,12 @@ import image159 from "../components/t50.jpeg"
 import image160 from "../components/t51.jpeg"
 import image161 from "../components/t52.jpeg"
 
+import image162 from "../components/p10.jpeg"
+import image163 from "../components/p11.jpeg"
+
+import image164 from "../components/p12.jpeg"
+import image165 from "../components/p13.jpeg"
+import image166 from "../components/p14.jpeg"
 
 
 
@@ -1078,6 +1084,36 @@ export const WatchProvider=({children})=>{
             pricelow:"39,999",
             id:"A152"
         },
+    
+        {
+            image:image162,
+            pricelow:"39,999",
+            id:"A152"
+        },
+        {
+            image:image163,
+            pricelow:"39,999",
+            id:"A153"
+        },
+
+        {
+            image:image164,
+            pricelow:"39,999",
+            id:"A154"
+        },
+        {
+            image:image165,
+            pricelow:"39,999",
+            id:"A155"
+        },
+    
+        {
+            image:image166,
+            pricelow:"39,999",
+            id:"A156"
+        },
+
+    
     
        
 
