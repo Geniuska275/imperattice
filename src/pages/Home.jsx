@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useContext } from 'react'
 import Gallery from '../components/gallery'
 import ReactPlayer from 'react-player'
 import { RiInstagramFill } from "react-icons/ri";
@@ -36,11 +36,15 @@ import video29 from "../components/k1.mp4"
 import video30 from "../components/k2.mp4"
 
 import { Link } from 'react-router-dom';
+import { Pagination } from '../components/Pagination';
+import { WatchContext } from '../Context/WatchContext';
 
 
 
 
 export default function Home() {
+     const{data,imagesPerPage,setCurrentPage}=useContext(WatchContext)
+
   return (
     <div>
           <div className='w-[60px] z-[99999] h-[60px] fixed bottom-8 right-5 rounded-full bg-[#bf2833] flex justify-center items-center shadow-lg'>
@@ -51,6 +55,7 @@ export default function Home() {
       <h1 className='items-center font-bold text-[#bf2833] m-[25px]' style={{textAlign:"center"}}>COLLECTIONS</h1>
      <Gallery/>
   <hr></hr>
+     <Pagination imagesPerPage={imagesPerPage} totalImages={data.length} setCurrentPage={setCurrentPage}/>
   <div style={{maxWidth:"550px" ,margin:"0px auto",padding:"20px"}}>
      <h1 style={{textAlign:"center",margin:"20px",fontSize:"20px",fontWeight:"bold",color:"#bf2833"}}> VIDEOS</h1>
 

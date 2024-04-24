@@ -207,6 +207,8 @@ import image166 from "../components/p14.jpeg"
 export const WatchContext=createContext();
 
 export const WatchProvider=({children})=>{
+    const [imagesPerPage,setImagesPerPage]=useState(18)
+    const [currentPage,setCurrentPage]=useState(1)
     const [data,useData]=useState([
 
         {
@@ -1120,7 +1122,7 @@ export const WatchProvider=({children})=>{
 
     ])
 
-   return  <WatchContext.Provider value={{data,useData}}>
+   return  <WatchContext.Provider value={{data,useData,imagesPerPage,setImagesPerPage,currentPage,setCurrentPage}}>
     {children}
   </WatchContext.Provider>
 }
