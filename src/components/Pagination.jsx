@@ -16,8 +16,8 @@ export const Pagination = ({imagesPerPage,totalImages,setCurrentPage}) => {
     <nav className='flex justify-center '>
      <ul className='flex gap-2 m-4'>
         {ImageNumbers.map((number)=>(
-        <li className={`border p-2 shadow rounded text-[#bf2833] ${exact[0]===num ? "bg-[#bf2833]":""}`}>
-            <a onClick={()=>paginate(number)}> {number}</a>
+        <li className={`border p-[10px] shadow rounded text-[#bf2833] ${exact[0]===num ? "":""}`}>
+            <a onClick={()=>setCurrentPage(number)}> {number}</a>
         </li>
         ))}
      </ul>
