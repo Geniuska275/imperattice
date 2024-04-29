@@ -57,7 +57,7 @@ export default function Home() {
       <div style={{textAlign:"center"}}>
 
       <select onChange={(e)=>setImagesPerPage(e.target.value)}  className='border p-2 w-[200px] text-[#bf2833] border-[#bf2833] shadow text-center rounded-md '>
-          <option  > filter by number</option>
+          <option value="24" > filter by number</option>
           <option value="3" >3</option>
           <option value="4" >4</option>
           <option value="6" >6</option>

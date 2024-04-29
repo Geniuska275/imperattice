@@ -197,6 +197,35 @@ import image165 from "../components/p13.jpeg"
 import image166 from "../components/p14.jpeg"
 
 
+import image167 from "../components/w2.jpeg"
+import image168 from "../components/w3.jpeg"
+
+import image169 from "../components/w4.jpeg"
+import image170 from "../components/w5.jpeg"
+import image171 from "../components/w6.jpeg"
+
+import image172 from "../components/w7.jpeg"
+import image173 from "../components/w8.jpeg"
+
+import image174 from "../components/w9.jpeg"
+import image175 from "../components/w10.jpeg"
+import image176 from "../components/w11.jpeg"
+
+
+import image177 from "../components/w12.jpeg"
+import image178 from "../components/w13.jpeg"
+
+import image179 from "../components/w14.jpeg"
+import image180 from "../components/w15.jpeg"
+import image181 from "../components/w16.jpeg"
+
+import image182 from "../components/w17.jpeg"
+import image183 from "../components/w18.jpeg"
+
+import image184 from "../components/w19.jpeg"
+
+
+
 
 
 
@@ -1115,11 +1144,116 @@ export const WatchProvider=({children})=>{
             id:"A156"
         },
 
+        {
+            image:image167,
+            pricelow:"39,999",
+            id:"A157"
+        },
     
+        {
+            image:image168,
+            pricelow:"39,999",
+            id:"A158"
+        },
+
+        {
+            image:image169,
+            pricelow:"39,999",
+            id:"A159"
+        },
+    
+        {
+            image:image170,
+            pricelow:"39,999",
+            id:"A160"
+        },
+
+        {
+            image:image171,
+            pricelow:"39,999",
+            id:"A161"
+        },
+    
+        {
+            image:image172,
+            pricelow:"39,999",
+            id:"A162"
+        },
+
+        {
+            image:image173,
+            pricelow:"39,999",
+            id:"A163"
+        },
+    
+        {
+            image:image174,
+            pricelow:"39,999",
+            id:"A164"
+        },
+
+        {
+            image:image175,
+            pricelow:"39,999",
+            id:"A165"
+        },
+    
+        {
+            image:image176,
+            pricelow:"39,999",
+            id:"A166"
+        },
+
+        {
+            image:image177,
+            pricelow:"39,999",
+            id:"A167"
+        },
+    
+        {
+            image:image178,
+            pricelow:"39,999",
+            id:"A168"
+        },
+
+        {
+            image:image179,
+            pricelow:"39,999",
+            id:"A169"
+        },
+    
+        {
+            image:image180,
+            pricelow:"39,999",
+            id:"A170"
+        },
+
+        {
+            image:image181,
+            pricelow:"39,999",
+            id:"A171"
+        },
+    
+        {
+            image:image182,
+            pricelow:"39,999",
+            id:"A172"
+        },
+
+        {
+            image:image183,
+            pricelow:"39,999",
+            id:"A173"
+        },
+    
+        {
+            image:image184,
+            pricelow:"39,999",
+            id:"A174"
+        },
     
        
-
-
+        
     ])
 
    return  <WatchContext.Provider value={{data,useData,imagesPerPage,setImagesPerPage,currentPage,setCurrentPage}}>
