@@ -43,7 +43,8 @@ import { WatchContext } from '../Context/WatchContext';
 
 
 export default function Home() {
-     const{data,imagesPerPage,setCurrentPage}=useContext(WatchContext)
+     const{data,imagesPerPage,setCurrentPage,currentPage,setImagesPerPage}=useContext(WatchContext)
+     console.log(imagesPerPage)
 
   return (
     <div>
@@ -53,9 +54,22 @@ export default function Home() {
                 </Link>
         </div>
       <h1 className='items-center font-bold text-[#bf2833] m-[25px]' style={{textAlign:"center"}}>COLLECTIONS</h1>
+      <div style={{textAlign:"center"}}>
+
+      <select onChange={(e)=>setImagesPerPage(e.target.value)}  className='border p-2 w-[200px] text-[#bf2833] border-[#bf2833] shadow text-center rounded-md '>
+          <option  > filter by number</option>
+          <option value="3" >3</option>
+          <option value="4" >4</option>
+          <option value="6" >6</option>
+          <option value="12" >12</option>
+
+
+          
+      </select>
+      </div>
      <Gallery/>
   <hr></hr>
-     <Pagination imagesPerPage={imagesPerPage} totalImages={data.length} setCurrentPage={setCurrentPage}/>
+     <Pagination imagesPerPage={imagesPerPage} totalImages={data.length} setCurrentPage={setCurrentPage} currentPage={currentPage}/>
   <div style={{maxWidth:"550px" ,margin:"0px auto",padding:"20px"}}>
      <h1 style={{textAlign:"center",margin:"20px",fontSize:"20px",fontWeight:"bold",color:"#bf2833"}}> VIDEOS</h1>
 
