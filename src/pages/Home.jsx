@@ -214,7 +214,7 @@ export default function Home() {
 
      <div className='flexbox'>
      <div className='h-[500px]' style={{textAlign:"center"}}>
-     <ReactPlayer url={video37} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
+     <ReactPlayer url={video31} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
 
 
 <a href="https://wa.me/+2348101657733" className="">
@@ -223,7 +223,7 @@ export default function Home() {
 </a>
 </div>
 <div className='h-[500px]' style={{textAlign:"center"}}>
-<ReactPlayer url={video38} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px"}}/>
+<ReactPlayer url={video32} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px"}}/>
      
 <a href="https://wa.me/+2348101657733" className="">
 
