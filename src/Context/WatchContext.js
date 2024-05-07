@@ -225,6 +225,32 @@ import image183 from "../components/w18.jpeg"
 import image184 from "../components/w19.jpeg"
 
 
+import image185 from "../components/d1.jpeg"
+
+import image186 from "../components/d2.jpeg"
+import image187 from "../components/d3.jpeg"
+import image188 from "../components/d4.jpeg"
+
+import image189 from "../components/d5.jpeg"
+import image190 from "../components/d6.jpeg"
+
+import image191 from "../components/d7.jpeg"
+
+import image192 from "../components/d8.jpeg"
+
+import image193 from "../components/d9.jpeg"
+import image194 from "../components/d10.jpeg"
+import image195 from "../components/d11.jpeg"
+
+import image196 from "../components/d12.jpeg"
+import image197 from "../components/d13.jpeg"
+
+import image198 from "../components/d14.jpeg"
+
+import image199 from "../components/d15.jpeg"
+
+import image200 from "../components/d16.jpeg"
+
 
 
 
