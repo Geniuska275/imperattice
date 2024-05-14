@@ -257,6 +257,28 @@ import image200 from "../components/d16.jpeg"
 
 
 
+import image201 from "../components/h1.jpeg"
+
+import image202 from "../components/h2.jpeg"
+
+import image203 from "../components/h3.jpeg"
+
+import image204 from "../components/h4.jpeg"
+import image205 from "../components/h5.jpeg"
+import image206 from "../components/h6.jpeg"
+
+import image207 from "../components/h7.jpeg"
+import image208 from "../components/h8.jpeg"
+
+import image209 from "../components/h9.jpeg"
+import image210 from "../components/h10.jpeg"
+
+
+
+
+
+
+
 
 
 export const WatchContext=createContext();
@@ -1386,7 +1408,65 @@ export const WatchProvider=({children})=>{
             id:"A190"
         },
        
+
+
+
+        {
+            image:image201,
+            pricelow:"39,999",
+            id:"A191"
+        },
+        {
+            image:image202,
+            pricelow:"39,999",
+            id:"A192"
+        },
+        {
+            image:image203,
+            pricelow:"39,999",
+            id:"A193"
+        },
         
+
+        {
+            image:image204,
+            pricelow:"39,999",
+            id:"A194"
+        },
+        {
+            image:image205,
+            pricelow:"39,999",
+            id:"A195"
+        },
+        {
+            image:image206,
+            pricelow:"39,999",
+            id:"A196"
+        },
+
+
+        {
+            image:image207,
+            pricelow:"39,999",
+            id:"A197"
+        },
+        {
+            image:image208,
+            pricelow:"39,999",
+            id:"A198"
+        },
+        {
+            image:image209,
+            pricelow:"39,999",
+            id:"A199"
+        },
+
+        {
+            image:image210,
+            pricelow:"39,999",
+            id:"A200"
+        },
+       
     ])
 
    return  <WatchContext.Provider value={{data,useData,imagesPerPage,setImagesPerPage,currentPage,setCurrentPage}}>
