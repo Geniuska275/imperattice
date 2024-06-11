@@ -39,6 +39,8 @@ import video32 from "../components/v38.mp4"
 
 import video33 from "../components/k22.mp4"
 import video34 from "../components/k23.mp4"
+import video35 from "../components/de1.mp4"
+
 
 import { Link } from 'react-router-dom';
 import { Pagination } from '../components/Pagination';
@@ -302,6 +304,8 @@ export default function Home() {
 <button className=" bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
 </a>
 </div>
+
+
 <div className='h-[500px]' style={{textAlign:"center"}}>
 <ReactPlayer url={video17} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px"}}/>
      
@@ -429,6 +433,25 @@ export default function Home() {
 </div>
 <div className='h-[500px]' style={{textAlign:"center"}}>
 <ReactPlayer url={video30} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px"}}/>
+     
+<a href="https://wa.me/+2348101657733" className="">
+
+<button className=" bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
+</a>
+</div>  
+     </div>
+     <div className='flexbox'>
+     <div className='h-[500px]' style={{textAlign:"center"}}>
+     <ReactPlayer url={video29} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
+
+
+<a href="https://wa.me/+2348101657733" className="">
+
+<button className=" bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
+</a>
+</div>
+<div className='h-[500px]' style={{textAlign:"center"}}>
+<ReactPlayer url={video35} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px"}}/>
      
 <a href="https://wa.me/+2348101657733" className="">
 
