@@ -76,7 +76,7 @@ export default function Home() {
       </div>
      <Gallery/>
   <hr></hr>
-     <Pagination imagesPerPage={imagesPerPage} totalImages={data.length} setCurrentPage={setCurrentPage} currentPage={currentPage}/>
+     {/* <Pagination imagesPerPage={imagesPerPage} totalImages={data.length} setCurrentPage={setCurrentPage} currentPage={currentPage}/> */}
   <div style={{maxWidth:"550px" ,margin:"0px auto",padding:"20px"}}>
      <h1 style={{textAlign:"center",margin:"20px",fontSize:"20px",fontWeight:"bold",color:"#bf2833"}}> VIDEOS</h1>
 

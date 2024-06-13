@@ -228,7 +228,7 @@ export default function Gallery(){
 
         <div className="flex justify-center items-center mb-5 md:ml-[150px]">
             <div className="flex flex-wrap  items-center ml-[20px]">
-             {CurrentImages.map((item,index)=>(
+             {data.map((item,index)=>(
                  
                  <div className="shadow-lg relative rounded-sm w-[340px] flex items-center justify-center m-1 h-[440px] ">
                 <h1 className=" absolute flex items-center justify-center top-[10px] right-3 rounded-full w-10 h-10 bg-[#bf2833] text-white">{item.id}</h1>
