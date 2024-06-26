@@ -315,6 +315,8 @@ import image232 from "../components/q6.jpeg"
 import image233 from "../components/q7.jpeg"
 import image234 from "../components/q8.jpeg"
 import image235 from "../components/q9.jpeg"
+import image236 from "../components/n1.jpg"
+import image237 from "../components/n2.jpg"
 
 
 
@@ -1230,6 +1232,18 @@ export const WatchProvider=({children})=>{
             pricelow:"40,999",
             // pricehigh:"31,999",
             id:"A222"
+        },
+        {
+            image:image236,
+            pricelow:"17,999",
+            pricehigh:"20,999",
+            id:"A223"
+        },
+        {
+            image:image237,
+            pricelow:"17,999",
+            pricehigh:"20,999",
+            id:"A224"
         },
        
     ])
