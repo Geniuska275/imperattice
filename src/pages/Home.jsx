@@ -443,7 +443,7 @@ export default function Home() {
      </div>
      <div className='flexbox'>
      <div className='h-[500px]' style={{textAlign:"center"}}>
-     <ReactPlayer url={video29} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
+     <ReactPlayer url={video36} controls={true}  width={"300px"} style={{border:"3px solid #bf2833",borderRadius:"5px",marginLeft:"10px",marginBottom:"10px"}}/>
 
 
 <a href="https://wa.me/+2348101657733" className="">

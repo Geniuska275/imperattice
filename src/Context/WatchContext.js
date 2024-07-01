@@ -322,6 +322,10 @@ import image238 from "../components/n4.jpg"
 import image239 from "../components/n5.jpeg"
 import image240 from "../components/n6.jpeg"
 
+import image241 from "../components/n7.jpeg"
+import image242 from "../components/n8.jpeg"
+import image243 from "../components/n9.jpeg"
+
 
 
 
@@ -1265,6 +1269,25 @@ export const WatchProvider=({children})=>{
             pricelow:"34,999",
             // pricehigh:"34,999",
             id:"A226"
+        },
+
+        {
+            image:image241,
+            pricelow:"17,999",
+            // pricehigh:"34,999",
+            id:"A227"
+        },
+        {
+            image:image242,
+            pricelow:"17,999",
+            // pricehigh:"34,999",
+            id:"A228"
+        },
+        {
+            image:image243,
+            pricelow:"17,999",
+            // pricehigh:"34,999",
+            id:"A229"
         },
        
     ])
