@@ -318,6 +318,10 @@ import image235 from "../components/q9.jpeg"
 import image236 from "../components/n1.jpg"
 import image237 from "../components/n2.jpg"
 
+import image238 from "../components/n4.jpg"
+import image239 from "../components/n5.jpeg"
+import image240 from "../components/n6.jpeg"
+
 
 
 
@@ -1168,7 +1172,6 @@ export const WatchProvider=({children})=>{
             image:image227,
             pricelow:"14,999",
             pricehigh:"15,999",
-
             id:"A214"
         },
 
@@ -1176,7 +1179,6 @@ export const WatchProvider=({children})=>{
             image:image228,
             pricelow:"14,999",
             pricehigh:"15,999",
-
             id:"A215"
         },
 
@@ -1184,7 +1186,6 @@ export const WatchProvider=({children})=>{
             image:image229,
             pricelow:"14,999",
             pricehigh:"15,999",
-
             id:"A216"
         },
 
@@ -1244,6 +1245,26 @@ export const WatchProvider=({children})=>{
             pricelow:"17,999",
             pricehigh:"20,999",
             id:"A224"
+        },
+       
+
+        {
+            image:image238,
+            pricelow:"34,999",
+            // pricehigh:"20,999",
+            id:"A224"
+        },
+        {
+            image:image239,
+            pricelow:"34,999",
+            // pricehigh:"34,999",
+            id:"A225"
+        },
+        {
+            image:image240,
+            pricelow:"34,999",
+            // pricehigh:"34,999",
+            id:"A226"
         },
        
     ])

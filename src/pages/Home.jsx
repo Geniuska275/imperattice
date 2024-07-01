@@ -40,6 +40,7 @@ import video32 from "../components/v38.mp4"
 import video33 from "../components/k22.mp4"
 import video34 from "../components/k23.mp4"
 import video35 from "../components/de1.mp4"
+import video36 from "../components/v80.mp4"
 
 
 import { Link } from 'react-router-dom';
