@@ -327,6 +327,12 @@ import image242 from "../components/n8.jpeg"
 import image243 from "../components/n9.jpeg"
 
 
+import image244 from "../components/n11.jpg"
+import image245 from "../components/n12.jpg"
+import image246 from "../components/n13.jpg"
+
+
+
 
 
 
@@ -1289,7 +1295,25 @@ export const WatchProvider=({children})=>{
             // pricehigh:"34,999",
             id:"A229"
         },
-       
+        {
+            image:image244,
+            pricelow:"30,999",
+            // pricehigh:"34,999",
+            id:"A230"
+        },
+        {
+            image:image245,
+            pricelow:"30,999",
+            // pricehigh:"34,999",
+            id:"A231"
+        },
+        {
+            image:image246,
+            pricelow:"30,999",
+
+            // pricehigh:"34,999",
+            id:"A232"
+        },
     ])
 
    return  <WatchContext.Provider value={{data,useData,imagesPerPage,setImagesPerPage,currentPage,setCurrentPage}}>
