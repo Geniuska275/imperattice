@@ -332,6 +332,23 @@ import image245 from "../components/n12.jpg"
 import image246 from "../components/n13.jpg"
 
 
+import image247 from "../components/k51.jpeg"
+import image248 from "../components/k52.jpeg"
+
+
+import image249 from "../components/k53.jpeg"
+import image250 from "../components/k54.jpeg"
+import image251 from "../components/k55.jpeg"
+
+import image252 from "../components/k56.jpeg"
+import image253 from "../components/k57.jpeg"
+import image254 from "../components/k58.jpeg"
+
+
+import image255 from "../components/k59.jpeg"
+import image256 from "../components/k60.jpeg"
+import image257 from "../components/k61.jpeg"
+
 
 
 
@@ -1313,6 +1330,83 @@ export const WatchProvider=({children})=>{
 
             // pricehigh:"34,999",
             id:"A232"
+        },
+        {
+            image:image247,
+            pricelow:"30,000",
+
+            // pricehigh:"34,999",
+            id:"A233"
+        },
+        {
+            image:image248,
+            pricelow:"30,000",
+
+            // pricehigh:"34,999",
+            id:"A234"
+        },
+        {
+            image:image249,
+            pricelow:"30,000",
+
+            // pricehigh:"34,999",
+            id:"A235"
+        },
+        {
+            image:image250,
+            pricelow:"30,000",
+
+            // pricehigh:"34,999",
+            id:"A236"
+        },
+        {
+            image:image251,
+            pricelow:"30,000",
+
+            // pricehigh:"34,999",
+            id:"A237"
+        },
+        {
+            image:image252,
+            pricelow:"59,999",
+
+            // pricehigh:"34,999",
+            id:"A238"
+        },
+        {
+            image:image253,
+            pricelow:"59,999",
+
+            // pricehigh:"34,999",
+            id:"A239"
+        },
+        {
+            image:image254,
+            pricelow:"59,999",
+
+            // pricehigh:"34,999",
+            id:"A240"
+        },
+        {
+            image:image255,
+            pricelow:"35,999",
+
+            // pricehigh:"34,999",
+            id:"A241"
+        },
+        {
+            image:image256,
+            pricelow:"35,999",
+
+            // pricehigh:"34,999",
+            id:"A241"
+        },
+        {
+            image:image257,
+            pricelow:"35,999",
+
+            // pricehigh:"34,999",
+            id:"A242"
         },
     ])
 
