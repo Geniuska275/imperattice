@@ -370,7 +370,7 @@ export const WatchProvider=({children})=>{
 
         {
             image:image51,
-            pricelow:"31,999",
+            // pricelow:"31,999",
             // pricehigh:"31,999",
             id:"A0"
         },
@@ -379,75 +379,75 @@ export const WatchProvider=({children})=>{
 
         {
             image:image52,
-            pricelow:"31,999",
+            // pricelow:"31,999",
             // pricehigh:"31,999",
             id:"A01"
         },
         {
             image:image53,
-            pricelow:"31,999",
+            // pricelow:"31,999",
             // pricehigh:"31,999",
             id:"A02"
         },
         {
             image:image54,
-            pricelow:"31,999",
+            // pricelow:"31,999",
             // pricehigh:"31,999",
             id:"A03"
         },
         {
             image:image55,
-            pricelow:"31,999",
+            // pricelow:"31,999",
             // pricehigh:"31,999",
             id:"A04"
         },
         {
             image:image56,
-            pricelow:"31,999",
+            // pricelow:"31,999",
             // pricehigh:"31,999",
             id:"A05"
         },
        
         {
             image:image77,
-            pricelow:"45,999",
+            // pricelow:"45,999",
             id:"A68"
         },
         {
             image:image78,
-            pricelow:"45,999",
+            // pricelow:"45,999",
            
             id:"A69"
         },
         {
             image:image79,
-            pricelow:"45,999",
+            // pricelow:"45,999",
         
             id:"A70"
         },
         {
             image:image80,
-            pricelow:"45,999",
+            // pricelow:"45,999",
             id:"A71"
         },
         {
             image:image81,
-            pricelow:"45,999",
+            // pricelow:"45,999",
             id:"A72"
         },
        
     
         {
             image:image86,
-            pricelow:"17,999",
-            pricehigh:"19,999",
+            // pricelow:"17,999",
+            // pricehigh:"19,999",
     
             id:"A77"
         },
         {
             image:image87,
-            pricelow:"17,999",
-            pricehigh:"19,999",
+            // pricelow:"17,999",
+            // pricehigh:"19,999",
     
             id:"A78"
         },
@@ -455,68 +455,68 @@ export const WatchProvider=({children})=>{
     
         {
             image:image89,
-            pricelow:"35,999",
+            // pricelow:"35,999",
         
     
             id:"A80"
         },
         {
             image:image90,
-            pricelow:"35,999",
+            // pricelow:"35,999",
         
     
             id:"A80"
         },
         {
             image:image91,
-            pricelow:"35,999",
+            // pricelow:"35,999",
     
             id:"A81"
         },
         {
             image:image92,
-            pricelow:"35,999",
+            // pricelow:"35,999",
             id:"A82"
         },
     
         {
             image:image93,
-            pricelow:"40,999",
+            // pricelow:"40,999",
             id:"A83"
         },
         {
             image:image94,
-            pricelow:"40,999",
+            // pricelow:"40,999",
             id:"A84"
         },
         {
             image:image95,
-            pricelow:"40,999",
+            // pricelow:"40,999",
             id:"A85"
         },
         {
             image:image96,
-            pricelow:"40,999",
+            // pricelow:"40,999",
             id:"A86"
         },
         {
             image:image97,
-            pricelow:"40,999",
+            // pricelow:"40,999",
             id:"A87"
         },
         {
             image:image98,
-            pricelow:"40,999",
+            // pricelow:"40,999",
             id:"A88"
         },
         {
             image:image99,
-            pricelow:"40,999",
+            // pricelow:"40,999",
             id:"A89"
         },
         {
             image:image100,
-            pricelow:"40,999",
+            // pricelow:"40,999",
             id:"A90"
         },
     
@@ -524,87 +524,87 @@ export const WatchProvider=({children})=>{
        
         {
             image:image112,
-            pricelow:"50,999",
+            // pricelow:"50,999",
             id:"A104"
         },
         {
             image:image113,
-            pricelow:"50,999",
+            // pricelow:"50,999",
             id:"A105"
         },
         {
             image:image114,
-            pricelow:"50,999",
+            // pricelow:"50,999",
             id:"A106"
         },
        
         {
             image:image118,
-            pricelow:"40,999",
+            // pricelow:"40,999",
             id:"A110"
         },
         {
             image:image119,
-            pricelow:"40,999",
+            // pricelow:"40,999",
             id:"A111"
         },
         {
             image:image120,
-            pricelow:"40,999",
+            // pricelow:"40,999",
             id:"A112"
         },
         {
             image:image121,
-            pricelow:"40,999",
+            // pricelow:"40,999",
             id:"A113"
         },
         {
             image:image122,
-            pricelow:"40,999",
+            // pricelow:"40,999",
             id:"A114"
         },
         {
             image:image123,
-            pricelow:"40,999",
+            // pricelow:"40,999",
             id:"A115"
         },
        
     
         {
             image:image129,
-            pricelow:"30,999",
+            // pricelow:"30,999",
             id:"A121"
         },
         {
             image:image130,
-            pricelow:"30,999",
+            // pricelow:"30,999",
             id:"A121"
         },
     
         {
             image:image131,
-            pricelow:"30,999",
+            // pricelow:"30,999",
             id:"A122"
         },
         {
             image:image132,
-            pricelow:"30,999",
+            // pricelow:"30,999",
             id:"A123"
         },
     
         {
             image:image133,
-            pricelow:"30,999",
+            // pricelow:"30,999",
             id:"A124"
         },
         {
             image:image134,
-            pricelow:"30,999",
+            // pricelow:"30,999",
             id:"A125"
         },
         {
             image:image135,
-            pricelow:"30,999",
+            // pricelow:"30,999",
             id:"A126"
         },
     
@@ -643,47 +643,47 @@ export const WatchProvider=({children})=>{
     
         {
             image:image141,
-            pricelow:"17,999",
+            // pricelow:"17,999",
             id:"A132"
         },
     
         {
             image:image142,
-            pricelow:"17,999",
+            // pricelow:"17,999",
             id:"A133"
         },
         {
             image:image143,
-            pricelow:"17,999",
+            // pricelow:"17,999",
             id:"A134"
         },
     
         {
             image:image144,
-            pricelow:"17,999",
+            // pricelow:"17,999",
             id:"A135"
         },
     
         {
             image:image145,
-            pricelow:"17,999",
+            // pricelow:"17,999",
             id:"A136"
         },
     
         {
             image:image146,
-            pricelow:"43,999",
+            // pricelow:"43,999",
             id:"A137"
         },
         {
             image:image147,
-            pricelow:"43,999",
+            // pricelow:"43,999",
             id:"A138"
         },
     
         {
             image:image148,
-            pricelow:"43,999",
+            // pricelow:"43,999",
             id:"A139"
         },
     
@@ -692,24 +692,24 @@ export const WatchProvider=({children})=>{
     
         {
             image:image149,
-            pricelow:"35,999",
+            // pricelow:"35,999",
             id:"A140"
         },
     
         {
             image:image150,
-            pricelow:"45,999",
+            // pricelow:"45,999",
             id:"A141"
         },
         {
             image:image151,
-            pricelow:"35,999",
+            // pricelow:"35,999",
             id:"A142"
         },
     
         {
             image:image152,
-            pricelow:"45,999",
+            // pricelow:"45,999",
             id:"A143"
         },
     
@@ -718,7 +718,7 @@ export const WatchProvider=({children})=>{
     
         {
             image:image155,
-            pricelow:"27,999",
+            // pricelow:"27,999",
             id:"A146"
         },
     
@@ -727,18 +727,18 @@ export const WatchProvider=({children})=>{
     
         {
             image:image156,
-            pricelow:"27,999",
+            // pricelow:"27,999",
             id:"A147"
         },
     
         {
             image:image157,
-            pricelow:"27,999",
+            // pricelow:"27,999",
             id:"A148"
         },
         {
             image:image158,
-            pricelow:"27,999",
+            // pricelow:"27,999",
             id:"A149"
         },
     
@@ -761,148 +761,148 @@ export const WatchProvider=({children})=>{
         // },
     
         {
-            image:image162,
-            pricelow:"17,999",
-            pricehigh:"19,999",
+            // image:image162,
+            // pricelow:"17,999",
+            // pricehigh:"19,999",
 
             id:"A152"
         },
         {
             image:image163,
-            pricelow:"17,999",
-            pricehigh:"19,999",
+            // pricelow:"17,999",
+            // pricehigh:"19,999",
             id:"A153"
         },
 
         {
             image:image164,
-            pricelow:"17,999",
-            pricehigh:"19,999",
+            // pricelow:"17,999",
+            // pricehigh:"19,999",
             id:"A154"
         },
         {
             image:image165,
-            pricelow:"17,999",
-            pricehigh:"19,999",
+            // pricelow:"17,999",
+            // pricehigh:"19,999",
             id:"A155"
         },
     
         {
             image:image166,
-            pricelow:"17,999",
-            pricehigh:"19,999",
+            // pricelow:"17,999",
+            // pricehigh:"19,999",
             id:"A156"
         },
 
         {
             image:image167,
-            pricelow:"30,999",
+            // pricelow:"30,999",
             id:"A157"
         },
     
         {
             image:image168,
-            pricelow:"30,999",
+            // pricelow:"30,999",
             id:"A158"
         },
 
         {
             image:image169,
-            pricelow:"35,999",
+            // pricelow:"35,999",
             id:"A159"
         },
     
         {
             image:image170,
-            pricelow:"35,999",
+            // pricelow:"35,999",
             id:"A160"
         },
 
         {
             image:image171,
-            pricelow:"35,999",
+            // pricelow:"35,999",
             id:"A161"
         },
     
         {
             image:image172,
-            pricelow:"35,999",
+            // pricelow:"35,999",
             id:"A162"
         },
 
         {
             image:image173,
-            pricelow:"35,999",
+            // pricelow:"35,999",
             id:"A163"
         },
     
         {
             image:image174,
-            pricelow:"35,999",
+            // pricelow:"35,999",
             id:"A164"
         },
 
         {
             image:image175,
-            pricelow:"35,999",
+            // pricelow:"35,999",
             id:"A165"
         },
     
         {
             image:image176,
-            pricelow:"35,999",
+            // pricelow:"35,999",
             id:"A166"
         },
 
         {
             image:image177,
-            pricelow:"30,999",
+            // pricelow:"30,999",
             id:"A167"
         },
     
         {
             image:image178,
-            pricelow:"30,999",
+            // pricelow:"30,999",
             id:"A168"
         },
 
         {
             image:image179,
-            pricelow:"30,999",
+            // pricelow:"30,999",
             id:"A169"
         },
     
         {
             image:image180,
-            pricelow:"22,999",
-            pricehigh:"24,999",
+            // pricelow:"22,999",
+            // pricehigh:"24,999",
 
             id:"A170"
         },
 
         {
             image:image181,
-            pricelow:"22,999",
-            pricehigh:"24,999",
+            // pricelow:"22,999",
+            // pricehigh:"24,999",
             id:"A171"
         },
     
         {
             image:image182,
-            pricelow:"22,999",
-            pricehigh:"24,999",
+            // pricelow:"22,999",
+            // pricehigh:"24,999",
             id:"A172"
         },
 
         {
             image:image183,
-            pricelow:"37,999",
+            // pricelow:"37,999",
             id:"A173"
         },
     
         {
             image:image184,
-            pricelow:"39,999",
+            // pricelow:"39,999",
             id:"A174"
         },
 
@@ -911,29 +911,29 @@ export const WatchProvider=({children})=>{
 
         {
             image:image185,
-            pricelow:"35,999",
+            // pricelow:"35,999",
             id:"A175"
         },
     
         {
             image:image186,
-            pricelow:"17,999",
-            pricehigh:"19,999",
+            // pricelow:"17,999",
+            // pricehigh:"19,999",
             id:"A176"
         },
 
         {
             image:image187,
-            pricelow:"17,999",
-            pricehigh:"19,999",
+            // pricelow:"17,999",
+            // pricehigh:"19,999",
 
             id:"A177"
         },
     
         {
             image:image188,
-            pricelow:"17,999",
-            pricehigh:"19,999",
+            // pricelow:"17,999",
+            // pricehigh:"19,999",
             id:"A178"
         },
 

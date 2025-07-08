@@ -238,7 +238,7 @@ export default function Gallery(){
             <button className="  bg-[#bf2833] text-white shadow-2xl rounded-lg capitalize px-4 py-2 font-bold hover: bg-[#bf2830] font-[Poppins]">Negotiate</button>
             </a>
 
-            <h1 className=" absolute flex items-center justify-center top-[30px] left-7 rounded-2xl font-bold shadow-xl w-30 h-30 bg-[#fff] py-2 px-3 text-[#bf2833]">
+            {/* <h1 className=" absolute flex items-center justify-center top-[30px] left-7 rounded-2xl font-bold shadow-xl w-30 h-30 bg-[#fff] py-2 px-3 text-[#bf2833]">
                 <span>
                 
                 &#8358;{item.pricelow}
@@ -251,7 +251,7 @@ export default function Gallery(){
                     
                     &#8358;{item.pricehigh}
                     </span>}
-                </h1> 
+                </h1>  */}
             </div>
              ))}
           
